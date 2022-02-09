@@ -4,7 +4,7 @@
  <img src=".imgs/logo.png">
 </p>
 
-Here you will find information on Windows issues.
+<p align="center">Here you will find information on Windows issues.</p>
 
 ### Installation
 ```
