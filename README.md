@@ -19,5 +19,10 @@ $ git clone https://github.com/freelancermustakin/winISSUES
 $ wmic path softwarelicensingservice get OA3xOriginalProductKey
 ```
 
+> windows system information
+```
+$ msinfo32
+```
+
 ### Supported Platform
-**`Windows10`**
+**`Windows 10`**
