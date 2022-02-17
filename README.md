@@ -24,5 +24,11 @@ $ wmic path softwarelicensingservice get OA3xOriginalProductKey
 $ msinfo32
 ```
 
+> Folders Hide & Unhide Command
+```
+$ attrib +s +h (hidden folder and files name)
+$ attrib -s -h (unhide folder and files name)
+```
+
 ### Supported Platform
 **`Windows 10`**
